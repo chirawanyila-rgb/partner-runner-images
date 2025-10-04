@@ -1,5 +1,5 @@
 
-# GitHub Actions Partner Runner Images 
+#GitHub Actions Partner Runner Images 
 
 **Table of Contents**
 
